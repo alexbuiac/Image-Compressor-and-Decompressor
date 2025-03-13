@@ -1,0 +1,18 @@
+Cerinta 1
+Pentru cerinta 1, am folosit un arbore pe care l-am construit recursiv, folosind
+formulele date in cerinta pentru a calcula scorul de similaritate.
+
+Cerinta 2
+Cu ajutorul unei cozi in care am retinut adresele nodurilor intermediare, am
+parcurs arborele pe nivele si am scris datele in fisierul binar.
+
+Cerinta 3
+Am construit arborele tot cu ajutorul unei cozi in care an retinut adresele
+nodurilor intermediare, apoi am construit imaginea in mod recursiv, practic
+invers fata de primele 2 cerinte.
+
+PS: Am vrut ca coada folosita la cerinta 2 sa fie implementata tot printr-o
+lista inlantuita, ca la cerinta 3, insa nu am reusit sa schimb codul astfel
+incat sa mearga (aveam un segmentation fault persistent). Cerintele au fost
+implementate la distanta de aproape o saptamana, iar la cerinta 3 mi-a venit 
+ideea de a folosi o lista inlantuita.
